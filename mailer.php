@@ -1,6 +1,8 @@
 <?php 
 ini_set("display_errors", 1);
 
+// Something
+
 require("core.php");
 require("attach_mailer_class.php");
 require("JSON.php");
