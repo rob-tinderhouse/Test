@@ -3,6 +3,7 @@ ini_set("display_errors", 1);
 
 // Something before
 // Something
+// Something else
 
 require("core.php");
 require("attach_mailer_class.php");
